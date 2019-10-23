@@ -15,6 +15,9 @@ body {
 h1 {
   font-family: "Merriweather", serif;
   font-size: 32px;
+  paddibg-top:20px;
+  color:blue;
+  margin:20px;
 }
 
 
